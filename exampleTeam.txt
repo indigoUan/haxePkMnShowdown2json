@@ -1,0 +1,71 @@
+=== [gen9nationaldexdoubles] Main Team ===
+
+Cjulfá (Swampert) (M) @ Swampertite  
+Ability: Damp  
+Tera Type: Water  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Ice Punch  
+- Superpower  
+
+Coucou (Mawile) (F) @ Leftovers  
+Ability: Intimidate  
+Tera Type: Steel  
+EVs: 92 HP / 252 Atk / 166 Spe  
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Sucker Punch  
+- Knock Off  
+
+Loukai (Lucario) (M) @ Leftovers  
+Ability: Justified  
+Tera Type: Fighting  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Bone Rush  
+- Aura Sphere  
+- Power-Up Punch  
+
+Voi (Gardevoir) (F) @ Psychium Z  
+Ability: Trace  
+Shiny: Yes  
+Tera Type: Psychic  
+EVs: 2 Atk / 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Psyshock  
+- Moonblast  
+- Will-O-Wisp  
+- Healing Wish  
+
+Abzolût (Absol) (F) @ Leftovers  
+Ability: Justified  
+Tera Type: Dark  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Superpower  
+- Pursuit  
+
+Doppel (Gengar) (M) @ Leftovers  
+Ability: Cursed Body  
+Tera Type: Ghost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Wave  
+- Icy Wind  
+- Thunder  
+
+
+=== [gen9] Untitled 2 ===
+
+Amoonguss  
+Ability: Effect Spore  
+Tera Type: Grass  
+
+
