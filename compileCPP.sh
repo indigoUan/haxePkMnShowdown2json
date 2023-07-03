@@ -1,1 +1,1 @@
-haxe --cpp output -main Main
+haxe --cpp output -main src.Main
